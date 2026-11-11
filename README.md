@@ -1,4 +1,49 @@
-## Hi there 👋
+
+# Hi, I'm Gurur Çırpan 👋
+
+### Project Management | Business Analytics | Process Automation
+
+Welcome to my GitHub profile!
+
+I'm **Gurur Çırpan**, a business operations professional based in Izmir, Türkiye, with over 15 years of corporate experience.
+
+My expertise includes project management, campaign management, business process optimization, operational analytics, and automation.
+
+## 💼 Professional Expertise
+
+- Project & Campaign Management
+- Business Process Management
+- Business Intelligence & Power BI
+- Excel VBA & Process Automation
+- Robotic Process Automation (RPA)
+- KPI Monitoring & Performance Analytics
+- Data-Driven Decision Making
+
+## 🚀 What I'm Working On
+
+I'm focused on exploring practical solutions in:
+
+- Business Intelligence and Data Analytics
+- Workflow Automation
+- Operational Performance Optimization
+- Data Visualization and Reporting
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel & VBA
+- Robotic Process Automation (RPA)
+- Business Process Analysis
+- KPI Dashboards & Reporting
+
+## 🤝 Connect With Me
+
+[LinkedIn - Gurur Çırpan](https://www.linkedin.com/in/gururcirpan/)
+
+---
+
+*Turning data into insights and processes into efficiency.*
+
 
 <!--
 **gururcirpan/gururcirpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
