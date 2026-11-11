@@ -40,6 +40,8 @@ I'm focused on exploring practical solutions in:
 
 [LinkedIn - Gurur Çırpan](https://www.linkedin.com/in/gururcirpan/)
 
+[My Article on Medium](https://medium.com/@gururcirpan/from-manual-work-to-smart-automation-how-power-bi-excel-vba-and-rpa-transform-business-e877099fdd9c)
+
 ---
 
 *Turning data into insights and processes into efficiency.*
